@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "portfolio-omed",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}
